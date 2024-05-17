@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niel-pate
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning python and data science
 
 <!---
 niel-pate/niel-pate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
